@@ -2,7 +2,7 @@
 <tr>
 <td width = "60%">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=800&size=40&height=170&pause=1000&color=0C82F7&width=435&lines=Hey!+I'm+Khushi.....)](https://git.io/typing-svg)
+[![Typing SVG]([![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=800&height=170&pause=1000&color=F711B2&width=435&lines=Hey!+I'm+Khushi.....)](https://git.io/typing-svg))
 </td>
 <td width = "40%">
 <img src="https://media.tenor.com/7rp7aAKf52cAAAAi/ai-grok.gif"></td>
